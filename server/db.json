@@ -1,7 +1,32 @@
 {
-    "goods": [
-        { "id": 1, "name": "milk" },
-        { "id": 2, "name": "bananaas" },
-        { "id": 3, "name": "icecream" }
-    ]
+  "goods": [
+    {
+      "id": 1,
+      "name": "milk"
+    },
+    {
+      "id": 2,
+      "name": "bananaas"
+    },
+    {
+      "id": 3,
+      "name": "icecream"
+    },
+    {
+      "name": "chamomile",
+      "id": 4
+    },
+    {
+      "name": "mint",
+      "id": 5
+    },
+    {
+      "name": "chease",
+      "id": 6
+    },
+    {
+      "name": "cottage cheese",
+      "id": 7
+    }
+  ]
 }
