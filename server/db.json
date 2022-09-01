@@ -1,14 +1,6 @@
 {
   "goods": [
     {
-      "id": 1,
-      "name": "milk"
-    },
-    {
-      "id": 2,
-      "name": "bananaas"
-    },
-    {
       "id": 3,
       "name": "icecream"
     },
@@ -27,6 +19,14 @@
     {
       "name": "cottage cheese",
       "id": 7
+    },
+    {
+      "name": "buckweat",
+      "id": 8
+    },
+    {
+      "name": "potatoes",
+      "id": 9
     }
   ]
 }
